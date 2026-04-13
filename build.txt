@@ -1,0 +1,8 @@
+displayName = Brekotkin Jumpscare 1/10000 chance
+author = Z0sya
+version = 1.0
+hideCode = false
+hideResources = false
+includeSources = false
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*, Old\*
+homepage = https://github.com/Z0sya/Brekotkin-Jumpscare-Mod

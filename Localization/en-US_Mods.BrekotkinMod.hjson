@@ -1,0 +1,25 @@
+Configs: {
+	BrekotkinConfig: {
+		DisplayName: Dmitry Brekotkin Settings
+
+		ChanceDenominator: {
+			Label: Spawn Chance (1 in X ticks)
+			Tooltip:
+				'''
+				The lower the number, the more often Dmitry appears.
+				Recommended: 10000 (very rare).
+				For testing, set to 100.
+				'''
+		}
+
+		DisplayDuration: {
+			Label: Display duration (in ticks)
+			Tooltip: 60 ticks = 1 second.
+		}
+
+		SoundVolume: {
+			Tooltip: From 0.0 (silent/off) to 1.0 (max volume).
+			Label: Sound Volume
+		}
+	}
+}
