@@ -1,0 +1,6 @@
+*.csproj
+*.user
+obj\*
+bin\*
+.vs\*
+Old\*
