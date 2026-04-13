@@ -1,6 +1,6 @@
 *.csproj
 *.user
-obj\*
-bin\*
-.vs\*
-Old\*
+obj/*
+bin/*
+.vs/*
+Old/*
